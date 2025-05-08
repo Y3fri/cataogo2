@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Productos</title>
+    <link rel="stylesheet" href="catalogos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Catálogo de Productos</h1>
+            <div class="search-filter">
+                <input type="text" id="search" placeholder="Buscar productos...">
+                <div class="filter-group">
+                    <div class="category-chips-container">
+                        <button class="scroll-button left" aria-label="Scroll left">‹</button>
+                        <div class="category-chips" id="category-chips">
+                            <div class="category-chip active" data-category="all">Todas</div>
+                            <div class="category-chip" data-category="antenas">Antenas</div>
+                            <div class="category-chip" data-category="belleza">Belleza</div>
+                            <div class="category-chip" data-category="afeitadoras">Afeitadoras</div>
+                            <div class="category-chip" data-category="linterna">Linternas</div>
+                            <div class="category-chip" data-category="cocina">Cocina</div>
+                            <div class="category-chip" data-category="herramientas">Herramientas</div>
+                            <div class="category-chip" data-category="organizador">Organizador</div>
+                            <div class="category-chip" data-category="paneles">Paneles Solares</div>
+                            <div class="category-chip" data-category="microfonos">Micrófonos</div>
+                            <div class="category-chip" data-category="tecnologia">Tecnología</div>
+                            <div class="category-chip" data-category="ventiladores">Ventiladores</div>
+                            <div class="category-chip" data-category="bases tv">Bases TV</div>
+                        </div>
+                        <button class="scroll-button right" aria-label="Scroll right">›</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="products-grid" id="products-container">
+          
+        </div>
+    </main>
+
+    <!-- Modal para imagen ampliada -->
+    <div id="imageModal" class="image-modal">
+        <span class="close-modal">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+
+    <button id="scrollToTopBtn" class="scroll-to-top" title="Ir al inicio">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+    
+    <footer>
+        <div class="container">
+            <p>© 2025 Catálogo de Productos. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="catalogos.js"></script>
+</body>
+</html>

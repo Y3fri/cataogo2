@@ -72,13 +72,13 @@
 73|https://i.ibb.co/bRKqv4r7/imagen-2025-05-01-174133146.png|BASCULA DIGITAL AGS-A9T|40 KG RECARGABLE (VERDE, AZUL Y BLANCA)||119.900|Sin garantía especificada|1|tecnologia
 74|https://i.ibb.co/PZ3DR3T1/imagen-2025-05-01-174223761.png|BATIDORA LA INDEPENDENCIA CX6612|120 watts\n5 velocidades\nBotón expulsor de batidores\n2 batidores y 2 amasadores|62.000|59.900|3 Meses|1|cocina
 75|https://i.ibb.co/S7KpyKqq/imagen-2025-05-01-174341513.png|BATIDORA DE INMERSION MNB-6625|Potencia: 500W\nMaxima capacidad para batir: 800ml\nColores: Blanca y negra|77.000|72.900|3 Meses|1|cocina
-76|https://i.ibb.co/3mqb9YSh/imagen-2025-05-01-174409344.png|OLLA BLACK+DECKER RC5200M|Capacidad 20 tazas\nRecipiente antiadherente\nLuces indicadoras\nFunción de mantener caliente\nIncluye accesorios|163.000|154.900|1 Año|1|cocina
+76|https://i.ibb.co/3mqb9YSh/imagen-2025-05-01-174409344.png|OLLA BLACK+DECKER RC5200M|Capacidad 20 tazas\nRecipiente antiadherente\nLuces indicadoras\nFunción de mantener caliente\nIncluye accesorios|163.000|154.900|1 Año|0|cocina
 77|https://i.ibb.co/Rk8vd01k/imagen-2025-05-01-174433630.png|OLLA PRESIÓN MULTIFUNCIONAL BLACK DECKER PR100SD|6 litros\nCocción más rápida con 7 funciones de presión\n4 funciones sin presión\n9 sistemas de seguridad\nControles digitales\nReloj\nIncluye trébede, cuchara y taza medidora|420.000|374.900|1 Año|1|cocina
 78|https://i.ibb.co/Swng7HVm/imagen-2025-05-01-174502417.png|FREIDORA DE AIRE MANUAL OSTER CKSTAF401MDF|4L de capacidad\nRecubrimiento antiadherente\nControl manual\nCocina con 99% menos aceite\nPerilla ajustable hasta 200°C\nTemporizador hasta 60 minutos|330.900|298.900|1 Año|1|cocina
 79|https://i.ibb.co/pBQ2HQBP/imagen-2025-05-01-174606538.png|FREIDORA DE AIRE DIGITAL OSTER CKSTAF40WDDDF|4L de capacidad\nRecubrimiento antiadherente\nVentana y luz interna\n10 programas automáticos|499.900|444.900|1 Año|1|cocina
 80|https://i.ibb.co/TqrvzncG/imagen-2025-05-01-174623422.png|OLLA CORONA EN ALUMINIO 6 LITROS L22600|Capacidad: 6 litros|119.900|99.900|1 Año|1|cocina
 81|https://i.ibb.co/gLPsp7jS/imagen-2025-05-01-174639655.png|SELLADORA EMPACADORA AL VACIO YS002|Potencia: 90W\nIncluye bolsas para empacar al vacío\nVoltaje: 110V|31.000|24.900|3 Meses|1|cocina
-82|https://i.ibb.co/FbrVZfg6/imagen-2025-05-01-174716421.png|LONCHERA ELECTRICA ZR-001|Colores: Naranja, Verde, Rosada||75.900|2 Meses|1|cocina
+82|https://i.ibb.co/FbrVZfg6/imagen-2025-05-01-174716421.png|LONCHERA ELECTRICA ZR-001|Colores: Naranja, Verde, Rosada||75.900|2 Meses|0|cocina
 83|https://i.ibb.co/zHt7t28C/imagen-2025-05-01-174734299.png|HERVIDOR DE AGUA PLEGABLE LL2305-3|Potencia: 600W\nCapacidad: 0.6 litros|36.000|26.900|2 Meses|1|cocina
 84|https://i.ibb.co/N6L8bdBr/imagen-2025-05-01-174800968.png|HERVIDOR DE AGUA LA INDEPENDENCIA LLA 951|Potencia: 1000W\nCapacidad: 2L\nMaterial: Acero inoxidable\n110V|85.000|77.900|3 Meses|1|cocina
 85|https://i.ibb.co/tPpPYXWq/imagen-2025-05-01-174834726.png|MOLDE DESMONTABLE X3 ANTADHERENTE F-222426|Molde para tortas con figuras|39.900|35.900|3 Meses|1|cocina
@@ -86,7 +86,7 @@
 87|https://i.ibb.co/vrj04wW/imagen-2025-05-01-174911430.png|CUCHARA GOUGEGA DIGITAL HYC-08|Herramienta para pesar alimentos\nPeso máximo: 500g\nMaterial: ABS plástico\nPantalla LCD||17.900|1 Mes|1|cocina
 88|https://i.ibb.co/ynWM1nTp/imagen-2025-05-01-174928686.png|ESPUMADOR OD530|Para huevos, café, leche\nFunciona con 2 pilas AA (no incluidas)\nColores: Blanco y negro|12.000|9.900|Sin Garantía|1|cocina
 89|https://i.ibb.co/RpXbHBdF/imagen-2025-05-01-174952155.png|ESCURRIDOR PLEGABLE LL2305-10|Colores: Naranja, rojo, verde\nMaterial: Silicona y plástico\nMedidas: 26x39-60.5x13.5 cm|35.000|29.900|Sin Garantía|1|cocina
-90|https://i.ibb.co/hJfXLCsq/imagen-2025-05-01-175023816.png|SET DE UTENSILIOS CBT-2|12 piezas (10 siliconadas, 1 pinza, 1 base)\nMango de madera\nResistente al calor|46.000|39.900|Sin Garantía|1|cocina
+90|https://i.ibb.co/hJfXLCsq/imagen-2025-05-01-175023816.png|SET DE UTENSILIOS CBT-2|12 piezas (10 siliconadas, 1 pinza, 1 base)\nMango de madera\nResistente al calor|46.000|39.900|Sin Garantía|0|cocina
 91|https://i.ibb.co/ZRkrCSKP/imagen-2025-05-01-175058882.png|SET DE UTENSILIOS CBT-6|12 piezas (10 antiadherentes, 1 pinza metálica, 1 base)\nMango de madera\nResistente al calor|50.000|42.900|Sin Garantía|1|cocina
 92|https://i.ibb.co/qY9YGWb3/imagen-2025-05-01-175128867.png|BOTELLA MULTIFUNCIONAL PARA MASCOTAS|Dispensador de agua y comida\nIncluye pala dispensadora y rollo de bolsas\nColores: Verde, turquesa y rosado||29.900|Sin Garantía|1|mascotas
 93|https://i.ibb.co/qYYLBNmG/imagen-2025-05-01-175148524.png|CEPILLO CON VAPOR PARA MASCOTAS|Elimina pelo con vapor\nTipo C\nColores: Blanco y café crema|12.000|10.400|Sin Garantía|1|mascotas

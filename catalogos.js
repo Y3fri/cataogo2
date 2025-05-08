@@ -61,7 +61,6 @@ document.addEventListener('DOMContentLoaded', function () {
                     <img src="${product.imagen}" 
                     alt="${product.nombre}"
                     onerror="this.src='https://static.vecteezy.com/system/resources/previews/004/726/030/non_2x/warning-upload-error-icon-with-cloud-vector.jpg'">
-                    ${product.estado ? '<span class="product-badge">Disponible</span>' : '<span class="product-badge" style="background-color: var(--gray)">Agotado</span>'}
                     <button class="btn-view" onclick="showImageModal('${product.imagen}')">
                             <i class="fas fa-eye"></i>
                         </button>
@@ -73,23 +72,9 @@ document.addEventListener('DOMContentLoaded', function () {
                         <i class="fas fa-shield-alt"></i>
                         <span>Garantía: ${product.garantia}</span>
                     </div>
-                    <div class="product-price">
-                        <div>                             
-                            ${product.precioOriginal ? `<span class="original-price">$${product.precioOriginal}</span>` : ''}
-                            <span class="discount-price">$${product.precioDescuento}</span>
-                        </div>
-                        <span class="product-status ${product.estado ? 'status-available' : 'status-unavailable'}">
-                            ${product.estado ? 'Disponible' : 'Agotado'}
-                        </span>
-                    </div>
+                    
                     <div class="product-category">
                         <span class="category-tag">${product.categoria.toUpperCase()}</span>
-                    </div>
-                    <div class="product-actions">
-                        
-                        <button class="btn-order" onclick="orderProduct('${product.nombre}', '${product.precioDescuento}', '${product.categoria}')" ${!product.estado ? 'disabled' : ''}>
-                            <i class="fab fa-whatsapp"></i> Pedir
-                        </button>
                     </div>
                 </div>
             </div>
